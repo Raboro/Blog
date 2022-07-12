@@ -9,7 +9,7 @@ In this repository I show my daily progress
 | 07/09/2022  | CS50AI course continue Knowledge up to 1:04:23 and started new project  |
 | 07/10/2022  | continue project  |
 | 07/11/2022  | continue project  |
-| 07/12/2022  | Content Cell  |
+| 07/12/2022  | CS50AI course finished Knowledge  |
 | 07/13/2022  | Content Cell  |
 | 07/14/2022  | Content Cell  |
 | 07/15/2022  | Content Cell  |
